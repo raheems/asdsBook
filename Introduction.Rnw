@@ -1,13 +1,13 @@
  % !Rnw root = PorishonkhanPorichiti.Rnw
 
-\chapter{ভূমিকা}
+\chapter{পড়}
 এখানে ভূমিকা লিখতে হবে।
 
 \section{পরিসংখ্যানে দক্ষতা অর্জন যে কারণে প্রয়োজন?}
 
 লাইনের মাঝখানে  \Sexpr{pi}  ধরে নেই $x=১০০ / ২০০$
  \[
- x = \frac{\sum(x_i)}{n} 
+ x = \frac{\sum(x_i)}{n}
  \]
  একটি ড়্যান্ডম নাম্বার  \Sexpr{rnorm(1)}
 

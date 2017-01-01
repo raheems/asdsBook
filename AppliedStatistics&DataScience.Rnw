@@ -26,18 +26,7 @@
 %\singlespacing
 
 \begin{document}
-%\title{ফলিত পরিসংখ্যান ও ডেটা সায়েন্স }
-%\author{{\large নিউটন মু. আ. হাকিম}\\{\footnotesize mahnewton@dharapat.com}}
-%\maketitle
 
-%\newcommand{\ignore}[1]{}
-
-%
-%\tableofcontents
-%\listoffigures
-%\listoftables
-%\listofalgorithms
-%\lstlistoflistings
 
 %for book the following things might help
 \begin{titlepage}
