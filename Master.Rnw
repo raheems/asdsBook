@@ -1,0 +1,88 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+%% Copyright 2011 Markus Gesmann
+
+%\documentclass[a4paper,10pt,xetex]{article}
+%\csname tex4ht\endcsname
+\documentclass[11pt, twoside, openright, a4paper,xetex]{book} % twoside, openright
+\usepackage{listings}	% you may not use this
+\usepackage{algorithm2e} % you may not use this
+\usepackage{banglatex}
+\usepackage{setspace}
+\usepackage[utf8]{inputenc}
+
+%\usepackage[17pt]{extsizes} % to get fontsizes 8pt, 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, 20pt through out the entire document.
+
+% For BibLaTex
+%\usepackage[backend=biber,style=alphabetic]{biblatex}
+%\bibliography{sample}
+
+\usepackage[colorlinks]{hyperref} %[,bookmarksopen]
+
+\usepackage[none]{hyphenat}
+\sloppy
+
+\onehalfspacing
+%\singlespacing
+
+\begin{document}
+%\title{ফলিত পরিসংখ্যান ও ডেটা সায়েন্স }
+%\author{{\large নিউটন মু. আ. হাকিম}\\{\footnotesize mahnewton@dharapat.com}}
+%\maketitle
+
+%\newcommand{\ignore}[1]{}
+
+%
+%\tableofcontents
+%\listoffigures
+%\listoftables
+%\listofalgorithms
+%\lstlistoflistings
+
+%for book the following things might help
+\begin{titlepage}
+	% design your title page here
+	\Huge{ফলিত পরিসংখ্যান ও ডেটা সায়েন্স}
+	
+	\vspace{1in}
+	
+	\large{এনায়েতুর রহীম}
+\end{titlepage}
+
+\resetbengalipage
+\bengalipageplainalpha
+\tableofcontents
+%\listoffigures
+%\listoftables
+%\listofalgorithms
+%\lstlistoflistings
+\clearpage
+\resetbengalipage
+\bengalipagefancynumber
+\fancyhead[LO,RE]{\sl\nouppercase\leftmark} % twoside
+\fancyhead[LE,RO]{\sl\nouppercase\rightmark} % twoside
+
+% Input the introduction section
+<<intro, child='Introduction.Rnw'>>=
+@
+
+%\SweaveInput{introduction.Rnw}
+
+
+
+% \include{introduction}
+%\input{probability_distribution}
+%\input{sampling_distribution}
+
+% For BibTeX
+\bibliographystyle{plain} %plain
+\bibliography{sample}
+
+%For BibLaTeX
+%\printbibliography
+
+% Issue to be fixed.
+
+%A sample code inclusion command: \lstinputlisting[label={code:simple-code},caption={simple code.cpp}]{code/chapter_2/simple_code.cpp}, and corresponding reference command is: \ref{code:simple-code}
+\end{document}
+
