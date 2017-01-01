@@ -1,5 +1,5 @@
 SyncTeX Version:1
-Input:1:C:/Users/Raheem/Documents/MyFolder/Research/Books/AppStat and DataScience/Master.tex
+Input:1:C:/Users/Raheem/Documents/MyFolder/Research/Books/AppStatDataSci/AppliedStatistics&DataScience.tex
 Input:2:C:\Program Files (x86)\MikTeX 2.9\tex\latex\base\book.cls
 Input:3:C:\Program Files (x86)\MikTeX 2.9\tex\latex\base\bk11.clo
 Input:4:C:\Program Files (x86)\MikTeX 2.9\tex\latex\graphics\graphicx.sty
@@ -75,13 +75,13 @@ Input:73:C:\Program Files (x86)\MikTeX 2.9\tex\latex\hyphenat\hyphenat.sty
 Input:74:C:\Program Files (x86)\MikTeX 2.9\tex\latex\upquote\upquote.sty
 Input:75:C:\Program Files (x86)\MikTeX 2.9\tex\latex\base\textcomp.sty
 Input:76:C:\Program Files (x86)\MikTeX 2.9\tex\latex\base\ts1enc.def
-Input:77:Master.aux
+Input:77:AppliedStatistics&DataScience.aux
 Input:78:C:\Program Files (x86)\MikTeX 2.9\tex\latex\tipa\t3cmr.fd
 Input:79:C:\Program Files (x86)\MikTeX 2.9\tex\latex\base\ts1cmr.fd
 Input:80:C:\Program Files (x86)\MikTeX 2.9\tex\latex\hyperref\nameref.sty
 Input:81:C:\Program Files (x86)\MikTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
-Input:82:Master.out
-Input:83:Master.out
+Input:82:AppliedStatistics&DataScience.out
+Input:83:AppliedStatistics&DataScience.out
 Input:84:C:\Program Files (x86)\MikTeX 2.9\tex\generic\oberdiek\se-ascii-print.def
 Output:pdf
 Magnification:1000
@@ -89,7 +89,7 @@ Unit:1
 X Offset:0
 Y Offset:0
 Content:
-!6040
+!6123
 {1
 [1,100:4736287,49113138:25034752,44376851,0
 (1,100:4736287,4736287:0,0,0
@@ -131,8 +131,8 @@ h1,100:6178079,49113138:23592960,0,0
 ]
 !906
 }1
-Input:85:Master.toc
-!28
+Input:85:AppliedStatistics&DataScience.toc
+!51
 {2
 [1,109:4736287,49113138:25034752,44376851,267389
 [1,109:4736287,4736287:0,0,0
@@ -466,7 +466,7 @@ h1,127:19632141,29162389:78643,0,0
 g1,128:7858246,31240058
 g1,128:9889164,31240058
 g1,128:11543051,31240058
-k1,129:29771039,31240058:14788462
+k1,129:29771039,31240058:15195978
 g1,129:29771039,31240058
 )
 (1,132:6178079,32347638:23592960,645437,187113
@@ -2128,8 +2128,8 @@ g1,176:32916767,49309746
 ]
 !10031
 }6
-Input:86:Master.bbl
-!30
+Input:86:AppliedStatistics&DataScience.bbl
+!53
 {7
 [86,1:4736287,49309746:25034752,44573459,267389
 [86,1:4736287,4736287:0,0,0
@@ -2637,8 +2637,8 @@ g1,198:29771039,49309746
 ]
 !2512
 }9
-Input:87:Master.aux
-!29
+Input:87:AppliedStatistics&DataScience.aux
+!52
 Postamble:
 Count:2415
 !26
